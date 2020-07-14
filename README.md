@@ -17,7 +17,7 @@ This project was completed as a Data and Visual Analytics assignment at Georgia 
 ![Maroubra map](Maroubra.png "Maroubra map") 
 
 ### Mooree
-![Moree map](Mooree.png "Mooree map") 
+![Moree map](Moree.png "Moree map") 
 
 
 ### References 
