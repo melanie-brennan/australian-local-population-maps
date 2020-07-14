@@ -173,7 +173,7 @@ for(local_area_name in local_area_names){
   scale_dist <- get_scale_dist(long_min, long_max, lat_min, lat_max)
   
   #create a file name and open a png file
-  filename <- paste(local_area_name,".png")
+  filename <- paste(local_area_name,".png", sep="")
   png(filename, width=720, height = 630)
 
   #plot the number of people per dwelling by meshblock
