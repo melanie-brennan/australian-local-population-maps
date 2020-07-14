@@ -1,4 +1,4 @@
-## Australian Local Population Maps
+## Australian Local Population Density Maps
 
 Project uses two two data sets, both from the Australian Bureau of Statistics (ABS):
 
